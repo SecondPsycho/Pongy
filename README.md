@@ -47,8 +47,6 @@ The game has two menus. The first is a title screen, with a `start game` button.
 !!! note: Menu Testing
     User testing also revealed the importance of including a tutorial on the title screen.
 
-![Pongy Title Screen](titlescreen.png)
-
 The second is an end screen, which appears after one player scores 10 points and is declared the winner. It includes a `new game` button.
 The end screen can also be triggered manually by using the escape key.
 
@@ -73,10 +71,7 @@ Limitations
 Credits
 ================
 
-<div class="noheader firstcol">
-                         |  
------------------------- | -------------
-Pongy Created by         | Cordell King
-Pong Original Creators   | Allan Alcorn & Nolan Bushnell
-Pongy Art by             | Juan Linietsky, Ariel Manzur and the Godot community
-Pongy Game Engine        | Godot
+Pongy Created by        Cordell King
+Pong Original Creators  Allan Alcorn & Nolan Bushnell
+Pongy Art by            Juan Linietsky, Ariel Manzur and the Godot community
+Pongy Game Engine       Godot
