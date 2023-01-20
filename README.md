@@ -70,7 +70,7 @@ Limitations
 Credits
 ================
 
-Pongy Created by        Cordell King
-Pong Original Creators  Allan Alcorn & Nolan Bushnell
-Pongy Art by            Juan Linietsky, Ariel Manzur and the Godot community
-Pongy Game Engine       Godot
+Pongy Created by: Cordell King.
+Pong Original Creators: Allan Alcorn & Nolan Bushnell.
+Pongy Art by: Juan Linietsky, Ariel Manzur and the Godot community.
+Pongy Game Engine: Godot.
